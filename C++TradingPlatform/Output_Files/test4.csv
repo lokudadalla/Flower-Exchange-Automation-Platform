@@ -1,0 +1,7 @@
+Order ID,Client Order ID,Instrument,Side,Exec Status,Quantity,Price,Reason,Transaction Time
+ord1,aa1,Rose,1,New,100,55,Accepted,20241125-140952.245
+ord2,aa2,Rose,1,New,100,65,Accepted,20241125-140952.247
+ord3,aa3,Rose,2,PFill,100,65,Accepted,20241125-140952.247
+ord2,aa2,Rose,1,Fill,100,65,Accepted,20241125-140952.247
+ord3,aa3,Rose,2,PFill,100,55,Accepted,20241125-140952.247
+ord1,aa1,Rose,1,Fill,100,55,Accepted,20241125-140952.247

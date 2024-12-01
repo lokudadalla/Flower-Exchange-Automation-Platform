@@ -1,0 +1,19 @@
+Order ID,Client Order ID,Instrument,Side,Exec Status,Quantity,Price,Reason,Transaction Time
+ord1,aa13,Rose,2,New,100,75,Accepted,20241125-141042.716
+ord2,aa14,Rose,2,New,100,65,Accepted,20241125-141042.718
+ord3,aa15,Rose,2,New,100,55,Accepted,20241125-141042.718
+ord4,aa16,Rose,2,New,100,55,Accepted,20241125-141042.718
+ord5,aa17,Rose,2,New,100,55,Accepted,20241125-141042.718
+ord6,aa18,Rose,2,New,100,55,Accepted,20241125-141042.719
+ord7,aa19,Rose,1,Fill,100,55,Accepted,20241125-141042.719
+ord3,aa15,Rose,2,Fill,100,55,Accepted,20241125-141042.719
+ord8,aa20,Rose,1,PFill,100,55,Accepted,20241125-141042.719
+ord4,aa16,Rose,2,Fill,100,55,Accepted,20241125-141042.719
+ord8,aa20,Rose,1,Fill,100,55,Accepted,20241125-141042.719
+ord5,aa17,Rose,2,Fill,100,55,Accepted,20241125-141042.719
+ord9,aa21,Rose,1,PFill,100,55,Accepted,20241125-141042.719
+ord6,aa18,Rose,2,Fill,100,55,Accepted,20241125-141042.719
+ord9,aa21,Rose,1,PFill,100,65,Accepted,20241125-141042.720
+ord2,aa14,Rose,2,Fill,100,65,Accepted,20241125-141042.720
+ord9,aa21,Rose,1,Fill,100,75,Accepted,20241125-141042.720
+ord1,aa13,Rose,2,Fill,100,75,Accepted,20241125-141042.720
